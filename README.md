@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -172,3 +173,9 @@ Enjoy!
 [13]: http://jmsyst.com/bundles/JMSSecurityExtraBundle/master
 [14]: http://jmsyst.com/bundles/JMSDiExtraBundle/master
 [15]: http://symfony.com/doc/2.1/bundles/SensioGeneratorBundle/index.html
+=======
+TeBactEn
+========
+
+TeBactEn is a tool designed to facilitate the retrieval, extraction and annotation of bacterial enzymatic reactions and pathways from the literature. 
+>>>>>>> a545d19ccaf9b1b9442a75f724256abb2a5cb5a0
